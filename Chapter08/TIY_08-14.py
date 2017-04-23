@@ -9,3 +9,4 @@ def make_car(manufacturer, model, **functions):
 car = make_car('subaru', 'outback', color='blue', tow_package=True, power_steering=True)
 
 print(car)
+
