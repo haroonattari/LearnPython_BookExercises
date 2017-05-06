@@ -1,0 +1,3 @@
+In Python you can do functional programming
+In Python you can do object oriented programming
+In Python you can analyze data quickly
